@@ -1,0 +1,41 @@
+{
+    "name": "API Docs",
+    "description": "Hosted API documentation for every OAS (Swagger) and RAML spec out there. Powered by Stoplight.io. Document, mock, test, and more, with the StopLight API Designer.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/22951-api-docs.jpg",
+    "tags": [
+        "api service provider",
+        "documentation",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/api-docs\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "API Docs",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/22951-api-docs.jpg",
+            "humanURL": "https:\/\/api-docs.io\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/api-docs-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/API_Docs"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/api-docs.io\/"
+        }
+    ]
+}
